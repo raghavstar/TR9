@@ -1,0 +1,26 @@
+<!docktype>
+<html>
+  <head>
+      </head>
+  
+  <body style="color:white;background-color:green;"
+        >
+    
+    
+    <div style="color:green">
+      I AM A STUDENT
+    </div>
+    
+    <div1 style="color:green">
+      I AM A HOD/TEACHER
+    </div1>
+    
+    <mysection>
+    Enter to skip
+      
+      
+      <mysection/>
+  </style>
+    </body>
+  </html>
+  

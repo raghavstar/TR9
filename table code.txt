@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 2px solid #ddd;
+  padding: 20px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table id="customers">
+  <tr>
+    <th>Subject Code</th>
+    <th>Attendence</th>
+    <th>Percentage</th>
+  </tr>
+  <tr>
+    <td>KAS-302</td>
+    <td>25/35</td>
+    <td>71.43%</td>
+  </tr>
+  <tr>
+    <td>KEC-301</td>
+    <td>28/39</td>
+    <td>71.79%</td>
+  </tr>
+  <tr>
+    <td>KEC-302</td>
+    <td>28/38</td>
+    <td>73.68%</td>
+  </tr>
+  <tr>
+    <td>KEC-303</td>
+    <td>23/38</td>
+    <td>60.53%</td>
+  </tr>
+  <tr>
+    <td>KEC-351</td>
+    <td>12/14</td>
+    <td>85.72%</td>
+  </tr>
+  <tr>
+    <td>KEC-352</td>
+    <td>4/10</td>
+    <td>40%</td>
+  </tr>
+  <tr>
+    <td>KEC-353</td>
+    <td>8/12</td>
+    <td>66.67%</td>
+  </tr>
+  <tr>
+    <td>KNC-302</td>
+    <td>3/8</td>
+    <td>37.5%</td>
+  </tr>
+  <tr>
+    <td>KVE-301</td>
+    <td>27/31</td>
+    <td>57.1%</td>
+  </tr>
+  <tr>
+    <td>KAS-301</td>
+    <td>24/30</td>
+    <td>80%</td>
+  </tr>
+  <tr>
+      <td>total</td>
+      <td>160/235</td>
+      <td>68.08%</td>
+  </tr>
+</table>
+
+</body>
+</html>
